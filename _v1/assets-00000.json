@@ -1,0 +1,5176 @@
+{
+  "asset_count": 136,
+  "file_count": 136,
+  "assets": [
+    {
+      "name": "Aquarelle Basic A01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic 01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%2001.asset_thumbnails/Brush/aquarelle-basic-a01.webp",
+        "hash": "SHA256:0c441d91b98bd79b044af825f4578f0bf342bb60e0733c3ab70aa9a88bfbd989"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A02",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A 02.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A%2002.asset_thumbnails/Brush/aquarelle-basic-a02.webp",
+        "hash": "SHA256:6dd0f9ca56f08fc9c78c3b12c3f38e3a0276b9b6696fae1047bcec8617e9a49e"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A 03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A%2003.asset_thumbnails/Brush/aquarelle-basic-a03.webp",
+        "hash": "SHA256:b830814755d060396c856bbf0af22ad7e4d11c9e4407114fd27d6a732fed4cfd"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A04",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A 04.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A%2004.asset_thumbnails/Brush/aquarelle-basic-a04.webp",
+        "hash": "SHA256:2e08d49064b72dd8f71ecfeb321960941db386716100f0a7dec659912074331b"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A05",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A 05.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A%2005.asset_thumbnails/Brush/aquarelle-basic-a05.webp",
+        "hash": "SHA256:5ee20cc610f6107ff0e4a58e97d933d491283212225e0c6bb28d53c21239b8a9"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A06",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A 06.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A%2006.asset_thumbnails/Brush/aquarelle-basic-a06.webp",
+        "hash": "SHA256:416dd649b8ec026b9f87debffbb8a6bc4b871baee87619330247f052b88c265c"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A07",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A 07.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A%2007.asset_thumbnails/Brush/aquarelle-basic-a07.webp",
+        "hash": "SHA256:b9bac08c2e5c73a0c17db03024dd149395b77d37e237183cc131ca135ad7d552"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A08",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A08.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A08.asset_thumbnails/Brush/aquarelle-basic-a08.webp",
+        "hash": "SHA256:d751836e876da255c6642357f8b4122ab787070cfa03fa555a10dafeb1f06d2a"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A09",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A09.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A09.asset_thumbnails/Brush/aquarelle-basic-a09.webp",
+        "hash": "SHA256:07d7ab76149e93057100f4d8bea4678aa1a5f910433a92302a5bc56eabf416cf"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A10",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A10.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A10.asset_thumbnails/Brush/aquarelle-basic-a10.webp",
+        "hash": "SHA256:2955132ce16c9a5a1f42d1c29d872fa5b97742d8eb119adff8872896a24d946f"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A11",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A11.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A11.asset_thumbnails/Brush/aquarelle-basic-a11.webp",
+        "hash": "SHA256:e2c598c9dd2b36d556780d3c69c93dac0d7d663778b4e6b05cf106667dd4c46c"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A12",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A12.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A12.asset_thumbnails/Brush/aquarelle-basic-a12.webp",
+        "hash": "SHA256:d8165d87ed3924678149f822b3e2eb24a6fc58c50a1929b663bce6fd3cf43deb"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A13",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A13.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A13.asset_thumbnails/Brush/aquarelle-basic-a13.webp",
+        "hash": "SHA256:63223bbed2c9b3f1c3003ab1d58cf492641cd72328bb8230225f460f829b34b9"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A14",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A14.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A14.asset_thumbnails/Brush/aquarelle-basic-a14.webp",
+        "hash": "SHA256:db30aea7338e2fb2af57113e89ac2927b0ed47f1ba9d1e5e0d09c388038eb81e"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A15",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A15.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A15.asset_thumbnails/Brush/aquarelle-basic-a15.webp",
+        "hash": "SHA256:aceda97ee8879b50398f22c40cb7b256dfdc2244824c0e42cb7d5a6947fa88b2"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A16",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A16.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A16.asset_thumbnails/Brush/aquarelle-basic-a16.webp",
+        "hash": "SHA256:f3ed86124086042f628424dae43143fdc97123e1f30ed1118973d00ab19fea3d"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A17",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A17.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A17.asset_thumbnails/Brush/aquarelle-basic-a17.webp",
+        "hash": "SHA256:e4e8082db9ce53341b1fdae6fe90fab7bdf809bb65364adc5549c3de0f727048"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A18",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A18.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A18.asset_thumbnails/Brush/aquarelle-basic-a18.webp",
+        "hash": "SHA256:3fe52348f2bd282fed73dd5c820fd306f344444ab02d62ef6a4795ced687cbb1"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic A19",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic A19.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20A19.asset_thumbnails/Brush/aquarelle-basic-a19.webp",
+        "hash": "SHA256:71ffc42968faac2568e19100c8357560b2e222571bc1a895108b2ea1e70fd5c4"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B01.asset_thumbnails/Brush/aquarelle-basic-b01.webp",
+        "hash": "SHA256:d5c998d344d5394af64ce280ff3b22ce6ee1c703f09bab16eefb4b82db9437ee"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B02",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B02.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B02.asset_thumbnails/Brush/aquarelle-basic-b02.webp",
+        "hash": "SHA256:6c55d6609e7e655c952bd25a3e8ba50d65f4f682f361e32b52f3dea98f0ee556"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B03.asset_thumbnails/Brush/aquarelle-basic-b03.webp",
+        "hash": "SHA256:bc326f958f55df09719dd22731bbe29826b71897a2ef7392a5a66b029b84d1c4"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B04",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B04.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B04.asset_thumbnails/Brush/aquarelle-basic-b04.webp",
+        "hash": "SHA256:3716459ce20fcf780cce5c29f6b84a1ee84f93189d7401282dcd272b4ea4e4a3"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B05",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B05.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B05.asset_thumbnails/Brush/aquarelle-basic-b05.webp",
+        "hash": "SHA256:9dea3d7cbaa9b4dc6007eaadcc9ae84d0f7cdacab845cf5c5c36e08d4724c9a8"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B06",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B06.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B06.asset_thumbnails/Brush/aquarelle-basic-b06.webp",
+        "hash": "SHA256:80801e29608d5ccad7722c3f4630c8c3399850a58e3444c692a795991e86566c"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B07",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B07.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B07.asset_thumbnails/Brush/aquarelle-basic-b07.webp",
+        "hash": "SHA256:cdefcff8fbc071778c4a927245fb98e29229bb983fd36c298858a4761eff3f32"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B08",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B08.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B08.asset_thumbnails/Brush/aquarelle-basic-b08.webp",
+        "hash": "SHA256:51a61c8b9d509473f263f3b56659cadd1ae9e7106ba7405e12c25e3ba8beca43"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B09",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B09.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B09.asset_thumbnails/Brush/aquarelle-basic-b09.webp",
+        "hash": "SHA256:e5ba114f819fefea6ea5fffb37f702d2e637042865f2a9578c9af819eb542078"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B10",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B10.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B10.asset_thumbnails/Brush/aquarelle-basic-b10.webp",
+        "hash": "SHA256:ac73acd040e2ff625f71ed7f8ee10b4e35c28788bf65840838fd787ad7388989"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B11",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B11.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B11.asset_thumbnails/Brush/aquarelle-basic-b11.webp",
+        "hash": "SHA256:f9d4a18b2264b6451ca63f010a18ec4d4b3a7547b5a08b08f2b51f87bc2a3d91"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B12",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B12.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B12.asset_thumbnails/Brush/aquarelle-basic-b12.webp",
+        "hash": "SHA256:66258f2425714410f1d65a026f28f12b324b9e591eaa2591f11afae6d039751e"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B13",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B13.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B13.asset_thumbnails/Brush/aquarelle-basic-b13.webp",
+        "hash": "SHA256:e67cc401020618d582799976e0d973c3943f7dc3135f56902502b16d14a9e1f3"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B14",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B14.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B14.asset_thumbnails/Brush/aquarelle-basic-b14.webp",
+        "hash": "SHA256:16de3c7bf76a8928ada00e81ff8077b774eacbaa649bdd4efe0f5e5562aebdb5"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B15",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B15.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B15.asset_thumbnails/Brush/aquarelle-basic-b15.webp",
+        "hash": "SHA256:bd84d6678e65dbf23a75bf50abe981bfe7113403319f9e476f70995d7e10ca97"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B16",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B16.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B16.asset_thumbnails/Brush/aquarelle-basic-b16.webp",
+        "hash": "SHA256:9e171b577d81bd2b2b7baba24447c7889a2b02fcbc5c4b6e99c7f2e184bdb2a6"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B17",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B17.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B17.asset_thumbnails/Brush/aquarelle-basic-b17.webp",
+        "hash": "SHA256:b9961937f011ea041c4cdf997576015e03e6f5c395d9393ae8cfa163546a9eb9"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B18",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B18.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B18.asset_thumbnails/Brush/aquarelle-basic-b18.webp",
+        "hash": "SHA256:ecfa0997ecb94bc072b736c5449068e57e01b0c6c7bec041bac4c1615aba5d71"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic B19",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic B19.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20B19.asset_thumbnails/Brush/aquarelle-basic-b19.webp",
+        "hash": "SHA256:2f4a016d6b41a5b6c1af9060dd0881f6e3f72b7228018162406cc5d834e68177"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic D01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic D01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20D01.asset_thumbnails/Brush/aquarelle-basic-d01.webp",
+        "hash": "SHA256:eed147367fd91266ae9f66b8e981cc069b95d2d16dbfef87380f3821e0ff67cd"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic D02",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic D02.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20D02.asset_thumbnails/Brush/aquarelle-basic-d02.webp",
+        "hash": "SHA256:b0b37ef00c6ab429c06d1d67e04a50231d771908d0bdfdb09d68fcd0b5021b84"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic D03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic D03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20D03.asset_thumbnails/Brush/aquarelle-basic-d03.webp",
+        "hash": "SHA256:0539d200b40d57b05e68bed713ed083eda7186dce71f77552f380fcc1210a7e6"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic D04",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic D04.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20D04.asset_thumbnails/Brush/aquarelle-basic-d04.webp",
+        "hash": "SHA256:d322a07391102065d6ed3eeda40ceadffc66bf602e10c72fe86b5ea484b42b4a"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic D05",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic D05.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20D05.asset_thumbnails/Brush/aquarelle-basic-d05.webp",
+        "hash": "SHA256:5d2aca44443b5aac1fd5707b6ef60cda9bb679a301d03283f210079965b76fb3"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic D06",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic D06.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20D06.asset_thumbnails/Brush/aquarelle-basic-d06.webp",
+        "hash": "SHA256:999c07cec782ed92a4493fa9e11888429d51a97a40f40f3bf89b8033df15bc29"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic D07",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic D07.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20D07.asset_thumbnails/Brush/aquarelle-basic-d07.webp",
+        "hash": "SHA256:6b7b89aa47767f361a7f67b5f494e9c29bdb9702ded8c2942857b43bfd371b80"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Basic D08",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Basic D08.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Basic%20D08.asset_thumbnails/Brush/aquarelle-basic-d08.webp",
+        "hash": "SHA256:7fb6c61960d003f4884fc238f80283d010bc395116d228b3adfa84cfa4b7c4cb"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth A01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth A01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20A01.asset_thumbnails/Brush/aquarelle-smooth-a01.webp",
+        "hash": "SHA256:9fc0492609ff1937dc459e50ab025f401f70743e7c3bd71d8f3fb0c13b3c8336"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth A03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth A03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20A03.asset_thumbnails/Brush/aquarelle-smooth-a03.webp",
+        "hash": "SHA256:6653b27accd669d001e030206fb66b5e58b2b52173c1fd6562356117328cb691"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth A11",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth A11.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20A11.asset_thumbnails/Brush/aquarelle-smooth-a11.webp",
+        "hash": "SHA256:98bbf9311a2c3789525532d1727e2146dd2d4db4c37d706a053c28a43d17d4a2"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth A14",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth A14.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20A14.asset_thumbnails/Brush/aquarelle-smooth-a14.webp",
+        "hash": "SHA256:97485df663dd729d4513e62e6d92660b8af7aa8c5e0cfad7f0ce7399bc1bc343"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth A17",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth A17.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20A17.asset_thumbnails/Brush/aquarelle-smooth-a17.webp",
+        "hash": "SHA256:468b2d64a4ffde43a81f93963a9782c144103c370adf3bc0da0b3138f640077a"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth A19",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth A19.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20A19.asset_thumbnails/Brush/aquarelle-smooth-a19.webp",
+        "hash": "SHA256:357060ea0485276fd4a84ed17bdf70653c2b41eb3a4f5a99e0c3b8f991316dbe"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth G01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth G01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20G01.asset_thumbnails/Brush/aquarelle-smooth-g01.webp",
+        "hash": "SHA256:0cd83a05d3341fdd32d21a15dbdbc40954f98ec7b9e1b4aa590733fdf98e528d"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth G02",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth G02.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20G02.asset_thumbnails/Brush/aquarelle-smooth-g02.webp",
+        "hash": "SHA256:0213c011451ad5deb40a8280b4f699efbc85c236a17ce53f512bbee2533db398"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth G03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth G03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20G03.asset_thumbnails/Brush/aquarelle-smooth-g03.webp",
+        "hash": "SHA256:f8fb7eff6ea5b3b99696375b88abadad801256e13518eed5cace918d0f55c839"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth H01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth H01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20H01.asset_thumbnails/Brush/aquarelle-smooth-h01.webp",
+        "hash": "SHA256:d48c2a79d67864a2c29ecd3832fbc26c563b051a906af3709a719db6f1abb191"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth H02",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth H02.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20H02.asset_thumbnails/Brush/aquarelle-smooth-h02.webp",
+        "hash": "SHA256:4ed472c572da7fe9ee604375f6de05e461eabeae699f7648577d5acfae951bc7"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth H03-01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth H03-01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20H03-01.asset_thumbnails/Brush/aquarelle-smooth-h03-01.webp",
+        "hash": "SHA256:ddf22c8740fa35de2f138cf019ec94ca6b701a19ca87d305c3d57052c3ffba37"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth H03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth H03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20H03.asset_thumbnails/Brush/aquarelle-smooth-h03.webp",
+        "hash": "SHA256:d53c681b5741681e7b759026b00d0524567f9e7c2194cd852e42ecbe3a6732f0"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth I01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth I01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20I01.asset_thumbnails/Brush/aquarelle-smooth-i01.webp",
+        "hash": "SHA256:93e721a779210f1362f1b6468e7e7c65ab65a4cac7d47d74c7df91f41e82887a"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth I02",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth I02.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20I02.asset_thumbnails/Brush/aquarelle-smooth-i02.webp",
+        "hash": "SHA256:061021e028e522af9490e7d2521435e8f369d1a76fe24cdb86588d0284c6c287"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth I03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth I03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20I03.asset_thumbnails/Brush/aquarelle-smooth-i03.webp",
+        "hash": "SHA256:811056405e42adb58c5d74e37de6d4eff68562cb3ba4fe51e0fafa8eaf76c383"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth J01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth J01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20J01.asset_thumbnails/Brush/aquarelle-smooth-j01.webp",
+        "hash": "SHA256:ccdb94ed1c7b6332e6ffbaff403ef7f3ba5571fdc901e40c949d8fce349ae87b"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth J02",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth J02.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20J02.asset_thumbnails/Brush/aquarelle-smooth-j02.webp",
+        "hash": "SHA256:d058a84755094fddb43110d89f7c8bd846145a9a8393cf10c3ddca6918546a98"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Smooth J03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Smooth J03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Smooth%20J03.asset_thumbnails/Brush/aquarelle-smooth-j03.webp",
+        "hash": "SHA256:8fb24f72ee7d78e2a920b2795d56da427e975a10c077750c7bc1e481e8ae951a"
+      },
+      "meta": {
+        "catalog_id": "3b955eb8-7ca1-4bae-9a3c-2d606097a12d",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A01.asset_thumbnails/Brush/aquarelle-stamp-a01.webp",
+        "hash": "SHA256:76cc71eb7a08a7ffb4452ae0f64bdb8609c3e72c6d56446355a125cb09f4e656"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A02",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A02.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A02.asset_thumbnails/Brush/aquarelle-stamp-a02.webp",
+        "hash": "SHA256:1cbf4c520112c91f65fb0c38775748b2b9b2fa698d2bee3b57e5fded64835453"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A03.asset_thumbnails/Brush/aquarelle-stamp-a03.webp",
+        "hash": "SHA256:bb8feedd4e9e9011da8f55c04e46ac477381fefbdca3d56d1131fc710c554216"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A04",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A04.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A04.asset_thumbnails/Brush/aquarelle-stamp-a04.webp",
+        "hash": "SHA256:497e279ba5f82ee2a6c5acdf45490521a05356e198521cac2a288e27d8e40e4e"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A05",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A05.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A05.asset_thumbnails/Brush/aquarelle-stamp-a05.webp",
+        "hash": "SHA256:b33974f5b37307a28543b366c72c1213e87c8c0d16ae9fa1f20601e0cfc607c8"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A06",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A06.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A06.asset_thumbnails/Brush/aquarelle-stamp-a06.webp",
+        "hash": "SHA256:ca01da0d9276ec80a1185f3b4e82d2b520d0c6dd33f886425ce06d2aaf8f5887"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A07",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A07.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A07.asset_thumbnails/Brush/aquarelle-stamp-a07.webp",
+        "hash": "SHA256:be9fecc93e8481519227db297974646e937ac9b0ec1102af261f09f05616cd0c"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A08",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A08.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A08.asset_thumbnails/Brush/aquarelle-stamp-a08.webp",
+        "hash": "SHA256:3f717a12a4b5503bcc0eaedb3d01461536c17d69ba5b1944cb99b8b1f98ab51f"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A09",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A09.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A09.asset_thumbnails/Brush/aquarelle-stamp-a09.webp",
+        "hash": "SHA256:83221f64255802df2cf45d400174522322339cd2c097bfc9b40122422cba8ca0"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A10",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A10.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A10.asset_thumbnails/Brush/aquarelle-stamp-a10.webp",
+        "hash": "SHA256:c7e57cc8a678f31f1e99c23a78f577d52398590c901239523bc7b22928868390"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A11",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A11.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A11.asset_thumbnails/Brush/aquarelle-stamp-a11.webp",
+        "hash": "SHA256:6ef10a87d9bd3ba96782d06cba31e2cbe88fb4de9492c90b3410ed7d95cfaf57"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A12",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A12.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A12.asset_thumbnails/Brush/aquarelle-stamp-a12.webp",
+        "hash": "SHA256:624e2f6589f0f990fbec48103e83511af7a76660b81efa97e2e245a75a4511a6"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A13",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A13.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A13.asset_thumbnails/Brush/aquarelle-stamp-a13.webp",
+        "hash": "SHA256:c4f6683b1f9ff7d8e0d8599ef50accfdaaf7137683a702c395fbc4c98d9c70b0"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A14",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A14.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A14.asset_thumbnails/Brush/aquarelle-stamp-a14.webp",
+        "hash": "SHA256:1848470310df10fdd12473d76cddb630f27eadabc144cc51a0ecc497a2b8e8e5"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A15",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A15.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A15.asset_thumbnails/Brush/aquarelle-stamp-a15.webp",
+        "hash": "SHA256:bbdd8260a6e09f05ad2ef36674aa369bfec2ed4b6dd26f1746275f020788be04"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A16",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A16.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A16.asset_thumbnails/Brush/aquarelle-stamp-a16.webp",
+        "hash": "SHA256:16c2c1634585ac6deb8cefa18e0d3666a5b7c52effb10c5076f9265cbf620216"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A17",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A17.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A17.asset_thumbnails/Brush/aquarelle-stamp-a17.webp",
+        "hash": "SHA256:03d27892cc331b9019cf54a90df1f2112ef0f66aeb4d3d349bf902c3d5b46f46"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A18",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A18.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A18.asset_thumbnails/Brush/aquarelle-stamp-a18.webp",
+        "hash": "SHA256:57157b43d747c5bc3b06bb16008ddb4a21e9bb83660a23f47c42774c59158d5d"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp A19",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp A19.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20A19.asset_thumbnails/Brush/aquarelle-stamp-a19.webp",
+        "hash": "SHA256:1d9fc96f2faaf97b92b89039725fb0c33fb6434ebac93c6a98923e204ccd5e30"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B01.asset_thumbnails/Brush/aquarelle-stamp-b01.webp",
+        "hash": "SHA256:cb1e45b7ddef2ed8ea524dffc98a3c6fbef258b4518a7fa0c1bab64a88b33921"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B02",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B02.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B02.asset_thumbnails/Brush/aquarelle-stamp-b02.webp",
+        "hash": "SHA256:cfdfb33da0d3d358246a4a41a948a44ec04a12bd7720ab98a9a4d2c7dd5dfe36"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B03.asset_thumbnails/Brush/aquarelle-stamp-b03.webp",
+        "hash": "SHA256:42f04b0b7c1c7a80b169e17a1a316843b1166415e52cf2b9f5ec475b692a9572"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B04",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B04.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B04.asset_thumbnails/Brush/aquarelle-stamp-b04.webp",
+        "hash": "SHA256:ab79900f67fd05f7a140e9f65226e677a7bf79f8cf8e69c6e888570a50bc76eb"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B05",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B05.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B05.asset_thumbnails/Brush/aquarelle-stamp-b05.webp",
+        "hash": "SHA256:7bb556882e0c3ccc80056fa5e3f159784092b723d4d60d8ef10ca7d975766b0c"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B06",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B06.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B06.asset_thumbnails/Brush/aquarelle-stamp-b06.webp",
+        "hash": "SHA256:c6ecafeab4f2bbb1056a211ac04997546d24099ced50076f87ca94857c9be2d6"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B07",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B07.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B07.asset_thumbnails/Brush/aquarelle-stamp-b07.webp",
+        "hash": "SHA256:05d394405a937360d3878ccf0a8e5d0ca2058115c95941b8c37c36d46242f715"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B08",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B08.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B08.asset_thumbnails/Brush/aquarelle-stamp-b08.webp",
+        "hash": "SHA256:82c6e83077648d451a43dbad4fdf8b2801aabd259f9f705be892482d824d21c6"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B09",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B09.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B09.asset_thumbnails/Brush/aquarelle-stamp-b09.webp",
+        "hash": "SHA256:d82a3776085ae9805a0b2e3d764450cda1f3a270ec13582c18587152bde25af1"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B10",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B10.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B10.asset_thumbnails/Brush/aquarelle-stamp-b10.webp",
+        "hash": "SHA256:618838b0b548a48ac47df24e7ac84d03de592ab86798d72f6c8580066cd62e37"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B11",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B11.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B11.asset_thumbnails/Brush/aquarelle-stamp-b11.webp",
+        "hash": "SHA256:b80608c5e1e5000bcffc201207b37c931fc989bfd3e57179cb027b6421d56961"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B12",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B12.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B12.asset_thumbnails/Brush/aquarelle-stamp-b12.webp",
+        "hash": "SHA256:2439ed26d46c6a15d003decd93ef9de05598c4f9f6adc05994be1aca3695e54c"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B13",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B13.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B13.asset_thumbnails/Brush/aquarelle-stamp-b13.webp",
+        "hash": "SHA256:dc55ca317758c6c4acfe3ee5641c43e17371aa5258ba152edca566dc2eb9cb57"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B14",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B14.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B14.asset_thumbnails/Brush/aquarelle-stamp-b14.webp",
+        "hash": "SHA256:61ae21a6323bb32682141754c2414022758ad364fbf7c62997f680872a3c398c"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B15",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B15.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B15.asset_thumbnails/Brush/aquarelle-stamp-b15.webp",
+        "hash": "SHA256:21ff944f87712c468604e3ac12566e1ded14ebac78c16f76a6ed576d3830c4cb"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B16",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B16.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B16.asset_thumbnails/Brush/aquarelle-stamp-b16.webp",
+        "hash": "SHA256:0507b7d73432701f9841d8d5fb131faf493be267feecc67bf1d640eea02a8cb7"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B17",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B17.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B17.asset_thumbnails/Brush/aquarelle-stamp-b17.webp",
+        "hash": "SHA256:e396563c1b1c80d86a95da6abe89aaf9b643853710769cc11a86da6a3f1d6d7d"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B18",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B18.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B18.asset_thumbnails/Brush/aquarelle-stamp-b18.webp",
+        "hash": "SHA256:ee8df84417876ae4006571e58b17f4c13b68e6c3894a261a853228f752488a92"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp B19",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp B19.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20B19.asset_thumbnails/Brush/aquarelle-stamp-b19.webp",
+        "hash": "SHA256:69b14b5bb2600e6089fd5205bcc32a895a5445aa20aedc56ec2acdc76259c2ce"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp C01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp C01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20C01.asset_thumbnails/Brush/aquarelle-stamp-c01.webp",
+        "hash": "SHA256:53ea6244831f5656ecbacf7d49453dd30935bcb4ac8c2438a0f6b7ea5d9576a0"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp C02",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp C02.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20C02.asset_thumbnails/Brush/aquarelle-stamp-c02.webp",
+        "hash": "SHA256:814bd2e91f034396a8e46450127b3ff69f770eeb71d886f8c341f7cb994233b0"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp C03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp C03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20C03.asset_thumbnails/Brush/aquarelle-stamp-c03.webp",
+        "hash": "SHA256:d69ce5e23da548ed6494257b2a133c1c9ff79e6e550bc5ac2f4bcda4b1d18fcd"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp C04",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp C04.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20C04.asset_thumbnails/Brush/aquarelle-stamp-c04.webp",
+        "hash": "SHA256:f8e5fe2e6dea7195a1d90b6729a7bac919ec18abf501e40c07d55e5f4d8ea13f"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp C05",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp C05.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20C05.asset_thumbnails/Brush/aquarelle-stamp-c05.webp",
+        "hash": "SHA256:7d1191426499f7411720e56e1298c06125a8657288f5e964b4dd2a99f7c5e949"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp C06",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp C06.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20C06.asset_thumbnails/Brush/aquarelle-stamp-c06.webp",
+        "hash": "SHA256:2f917eb81b792bc543a286bd2b1b2339cf2d235ca399ba037b8c1e6c0f3ce0c3"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp C07",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp C07.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20C07.asset_thumbnails/Brush/aquarelle-stamp-c07.webp",
+        "hash": "SHA256:feeb7e32b4d132b80665e6f19855632c69276b22e941eec5e9d48d7f0010b31a"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp C08",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp C08.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20C08.asset_thumbnails/Brush/aquarelle-stamp-c08.webp",
+        "hash": "SHA256:66ebfe9bb4a44e7b03113843f5c443a8dec44b9d8bbb4c7b8dadd951c067c325"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp C09",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp C09.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20C09.asset_thumbnails/Brush/aquarelle-stamp-c09.webp",
+        "hash": "SHA256:84657cc5ce4d546f7e070d4131b41b27849f9fc2a87d7cb2a1bc6a7f320b45bb"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp C10",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp C10.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20C10.asset_thumbnails/Brush/aquarelle-stamp-c10.webp",
+        "hash": "SHA256:eb7d73e0ce352f5eba7ab83e397a1e0cdc4057e3ca2a08c42664d804fa3c5aa0"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp C11",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp C11.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20C11.asset_thumbnails/Brush/aquarelle-stamp-c11.webp",
+        "hash": "SHA256:6fe0cb6a29e3ef3f0d1de5566a4f3e0a568dbcd3b24b2272568933bc9b031b5a"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp C12",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp C12.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20C12.asset_thumbnails/Brush/aquarelle-stamp-c12.webp",
+        "hash": "SHA256:d4828d54dd3dc804a2fccf88d5cb943a703fae9463bc8f6091b803ff7a83d074"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp E01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp E01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20E01.asset_thumbnails/Brush/aquarelle-stamp-e01.webp",
+        "hash": "SHA256:b88434099985dc72fddb161a5104c5a7bbc5cc8aa5fd7952aacbe37c1ce635b5"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp E02",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp E02.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20E02.asset_thumbnails/Brush/aquarelle-stamp-e02.webp",
+        "hash": "SHA256:64923cea8f553dacf37e91d23b4654a119809464f6ac3464dcc6e41ef4077f3e"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp E03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp E03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20E03.asset_thumbnails/Brush/aquarelle-stamp-e03.webp",
+        "hash": "SHA256:7eb9a048ee17c481917cb43cfd20703ff1d786c2afd86576d3cc017082c6d2b0"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp E04",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp E04.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20E04.asset_thumbnails/Brush/aquarelle-stamp-e04.webp",
+        "hash": "SHA256:cdccf251243be7f888782e3e9ede1913fc684d3b04da4064627fbae3f9082830"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp E05",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp E05.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20E05.asset_thumbnails/Brush/aquarelle-stamp-e05.webp",
+        "hash": "SHA256:29c3f1ea03544ac3616c1511ed5ea57d48238fef76c1cad6e49979b28c916161"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp E06",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp E06.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20E06.asset_thumbnails/Brush/aquarelle-stamp-e06.webp",
+        "hash": "SHA256:94ab204bb14190dfff099276c9461e4b5d54b6ac9a04db6199fc24c9c7ac6e63"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp F01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp F01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20F01.asset_thumbnails/Brush/aquarelle-stamp-f01.webp",
+        "hash": "SHA256:86a0827ef7a38d1c63ba048fa52f2818831a686c4ecf7ed85134d4a7819a7a51"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp F02",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp F02.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20F02.asset_thumbnails/Brush/aquarelle-stamp-f02.webp",
+        "hash": "SHA256:ac6e71a6bea7f5bfad7cf40ed1b5586f73739a632a414d621cf2a6c7d017b3b8"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp F03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp F03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20F03.asset_thumbnails/Brush/aquarelle-stamp-f03.webp",
+        "hash": "SHA256:98e66aab74414b930ba2f400f106b68730419f5c5a661ecc0d63866dab5c2366"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp F04",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp F04.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20F04.asset_thumbnails/Brush/aquarelle-stamp-f04.webp",
+        "hash": "SHA256:41c40cdfe61cf49041626664a133b62eba8767522c5fa0dd3ab1e5285168d826"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp F05",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp F05.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20F05.asset_thumbnails/Brush/aquarelle-stamp-f05.webp",
+        "hash": "SHA256:c79eba9c5b3ff18b0982bd6875f14cd7dba2ba14213f641f8eb79f0659dcf95c"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp F06",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp F06.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20F06.asset_thumbnails/Brush/aquarelle-stamp-f06.webp",
+        "hash": "SHA256:3e42fd0e6b050643a6d7d55479fbc730a4ba79ddef4549a9a39bc2073345900d"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp K01",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp K01.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20K01.asset_thumbnails/Brush/aquarelle-stamp-k01.webp",
+        "hash": "SHA256:59ad780ecb9a4e49a5dccb593340a976b760ca9f79ee320efa224828caea9dee"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp K02",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp K02.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20K02.asset_thumbnails/Brush/aquarelle-stamp-k02.webp",
+        "hash": "SHA256:8099b1a5bf30f904d1d0f0a54e20f96803aa8bb16b2ebeb5b75e80c130154cbd"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp K03",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp K03.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20K03.asset_thumbnails/Brush/aquarelle-stamp-k03.webp",
+        "hash": "SHA256:c4e8c7d02c9799fad05e07aa64209a591cf05818e71fcc5dd1b6a51c20f52e73"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp K04",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp K04.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20K04.asset_thumbnails/Brush/aquarelle-stamp-k04.webp",
+        "hash": "SHA256:3bc3cf722525f578f255df7af2722ab418b49f0f29438a8dcd292026c87b2eec"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp K05",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp K05.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20K05.asset_thumbnails/Brush/aquarelle-stamp-k05.webp",
+        "hash": "SHA256:f1922d7e84261f4b7edb4148b1568f0c141cad3499d4ff9d88acd087aaaf26b4"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp K06",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp K06.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20K06.asset_thumbnails/Brush/aquarelle-stamp-k06.webp",
+        "hash": "SHA256:d470d8f0acca20386e976fbe435ca75df14fc2c7446dabc2854257a78660ac0b"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp K07",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp K07.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20K07.asset_thumbnails/Brush/aquarelle-stamp-k07.webp",
+        "hash": "SHA256:a469dae91b5c2e8a949b89551200c0f160e92f175558e2d2bdb72711abb223b8"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp K08",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp K08.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20K08.asset_thumbnails/Brush/aquarelle-stamp-k08.webp",
+        "hash": "SHA256:3f2c2a2795120db1aa25a4a820eca7aad423ec0c79ead6f0ae92c53c68d4e427"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aquarelle Stamp K09",
+      "id_type": "BRUSH",
+      "files": [
+        "Saved/Brushes/Aquarelle Stamp K09.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Saved/Brushes/Aquarelle%20Stamp%20K09.asset_thumbnails/Brush/aquarelle-stamp-k09.webp",
+        "hash": "SHA256:50f96438c379744c6327d02dadae27127e474229f5f7f11c400e8075acae1baa"
+      },
+      "meta": {
+        "catalog_id": "2bbb33de-862d-4250-9d44-8ebcd7747df9",
+        "author": "kvendy",
+        "license": "CC0-1.0",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "Saved/Brushes/Aquarelle Basic 01.asset.blend",
+      "size_in_bytes": 305361,
+      "hash": "SHA256:4f0db39058d9e75a3d3011d99028a12b1ed30708d266a3b615d2ed3f97890ef6",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%2001.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A 02.asset.blend",
+      "size_in_bytes": 309668,
+      "hash": "SHA256:3cda7495f8ff845cc90f3509ab9c05545a14ffe91402901c858892a32dcb6b9a",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A%2002.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A 03.asset.blend",
+      "size_in_bytes": 311996,
+      "hash": "SHA256:9714ffd367dd6c44a3a78bfd7a3ca2ce3a3330f4042f1dcb0aceefdb9e6027ee",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A%2003.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A 04.asset.blend",
+      "size_in_bytes": 300481,
+      "hash": "SHA256:e0a9d66af1ce17a34414af8b3b808dbdc2e09583219f340ddcfa9df1c2c6d791",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A%2004.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A 05.asset.blend",
+      "size_in_bytes": 300717,
+      "hash": "SHA256:e704d3df58b85d996f75b3bf525fafddadb7941ea9755c74a967f4200615246e",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A%2005.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A 06.asset.blend",
+      "size_in_bytes": 314166,
+      "hash": "SHA256:a8f1b6cf13bf5bb8bfebf66de17c7989831b79c1c096d366fe8f0cde16caee1c",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A%2006.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A 07.asset.blend",
+      "size_in_bytes": 291585,
+      "hash": "SHA256:3b17e9521e253d3aa86e83ca7247a6891b88353d857428202fd5bf82ebe09202",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A%2007.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A08.asset.blend",
+      "size_in_bytes": 306236,
+      "hash": "SHA256:b7a9951a557b3018098880f0f468ea4680bbf8b0db7b61c1d5e5c9f902ad73f0",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A08.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A09.asset.blend",
+      "size_in_bytes": 326859,
+      "hash": "SHA256:55ddcdc2c99005b56b888b07c1c85d20aacb4f0db69da26d79ba5795795d4a5c",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A09.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A10.asset.blend",
+      "size_in_bytes": 336802,
+      "hash": "SHA256:182c072698d10c768a5f5adc012bfee2416f9dd45d16e2f226d5d8efcd17b0c4",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A10.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A11.asset.blend",
+      "size_in_bytes": 320706,
+      "hash": "SHA256:bc1f1e5bb562b9e425de6aaa7837fe4d4227526351b15cc937003e7da3ba0eaf",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A11.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A12.asset.blend",
+      "size_in_bytes": 387143,
+      "hash": "SHA256:46f33ded8fd63f1fbdb1345c80480995559ed2c4adc6e2e748cf3661ef5fb580",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A12.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A13.asset.blend",
+      "size_in_bytes": 311271,
+      "hash": "SHA256:ddec27458168ef9c9b6e8ef122c4b71a28b0e393e38eaf339053e563736fb0a4",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A13.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A14.asset.blend",
+      "size_in_bytes": 335628,
+      "hash": "SHA256:9ca8b01fb119203f5266b28a15f6ad1b9f91b726112e4b33dc068f16879ddd0b",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A14.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A15.asset.blend",
+      "size_in_bytes": 307239,
+      "hash": "SHA256:c03762de67201517c5ee613529ca23a17613e32b7ed7a13d2b4f1a66649dae2b",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A15.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A16.asset.blend",
+      "size_in_bytes": 371453,
+      "hash": "SHA256:1e21786fee280221fd8ecba275f202e42b07511e8170a73396ef7ceab78cec29",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A16.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A17.asset.blend",
+      "size_in_bytes": 335958,
+      "hash": "SHA256:42f91b1db0e95ea6ccb6ec4be167c7e9df3e791f1259e60796da429726718e6a",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A17.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A18.asset.blend",
+      "size_in_bytes": 323724,
+      "hash": "SHA256:8b1382603fdce407675087d63602bcdde8323516809e56ccf9468e10a93f258f",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A18.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic A19.asset.blend",
+      "size_in_bytes": 312656,
+      "hash": "SHA256:2ac9769310b7765d56ff1a5b1c80d75bdf250237f7d9a1d0430802435a11b0b2",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20A19.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B01.asset.blend",
+      "size_in_bytes": 306694,
+      "hash": "SHA256:10ada9f37d1ce19da2b2c862fa6251ffca2cf27d5adff84650f831fec212f1fc",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B02.asset.blend",
+      "size_in_bytes": 313772,
+      "hash": "SHA256:f28d91fb868e1357872d8aafe7460d67e2a962b84c3060d205f3e030c414bef0",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B02.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B03.asset.blend",
+      "size_in_bytes": 316625,
+      "hash": "SHA256:7905d76d3e808c3e084dcf54efa8fda3882c8b396a98be14fdb557e156aab648",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B03.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B04.asset.blend",
+      "size_in_bytes": 302635,
+      "hash": "SHA256:8ddb0995fcc00128aa0d5747b75694c6b92404b1e21de047c8c6e85d2f5f240b",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B04.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B05.asset.blend",
+      "size_in_bytes": 306199,
+      "hash": "SHA256:218d7f84237b2a17fb3a3a09554bf14335152cff39815f96d4f54e6e6ad876ae",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B05.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B06.asset.blend",
+      "size_in_bytes": 316499,
+      "hash": "SHA256:f6d296ae176f75b1550b8c87de9b7754b9d388de12e78ecdb7e4b481b78c012e",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B06.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B07.asset.blend",
+      "size_in_bytes": 292924,
+      "hash": "SHA256:f6fcabc688803630852d8b469b867f13434c5422122628f79132c136f7caeec9",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B07.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B08.asset.blend",
+      "size_in_bytes": 313500,
+      "hash": "SHA256:1e90c2a6163e73d2a64cbd98ecb0333f36bd102404602b38e5432a66739052d6",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B08.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B09.asset.blend",
+      "size_in_bytes": 327694,
+      "hash": "SHA256:83dcd12597e0bb2538975d511ee7d30c0575cb7afe0afa3f36e3ec7deb7b6596",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B09.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B10.asset.blend",
+      "size_in_bytes": 339383,
+      "hash": "SHA256:771b54159622a72fbcf802859251ccfc8a345912404377af0faf816cc74b7818",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B10.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B11.asset.blend",
+      "size_in_bytes": 320073,
+      "hash": "SHA256:27e1ff7a24b3f54f3e33dbabc936d0a0669d03ce459f11999390a91c0c435c6b",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B11.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B12.asset.blend",
+      "size_in_bytes": 389125,
+      "hash": "SHA256:f407a8737922567d2987081733046203529a57694c87c2850b0b9716e6aaeeab",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B12.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B13.asset.blend",
+      "size_in_bytes": 320482,
+      "hash": "SHA256:8de88f8e7a0405496bf24d680459dd64be5f1ccae3fff7804c0f7754944d7a60",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B13.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B14.asset.blend",
+      "size_in_bytes": 332042,
+      "hash": "SHA256:9e4f4bd92630329f0bed14bad2f42ff95f46b293246d3cc1d457a3aec5e82f7c",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B14.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B15.asset.blend",
+      "size_in_bytes": 307018,
+      "hash": "SHA256:27b6c1f1b1f0201375e88dfccd33011b12516404fcf45727e454f9e9ad2bedf4",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B15.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B16.asset.blend",
+      "size_in_bytes": 365887,
+      "hash": "SHA256:2d8807c1434338c32db37b45a43fcf61c0a471a89ee5e8f798eaf7ee37248f97",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B16.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B17.asset.blend",
+      "size_in_bytes": 337714,
+      "hash": "SHA256:5863dea6b25d28f3def60c2ec6f3946b411c2e6b06fd3894504e4e58b3bb1fa9",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B17.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B18.asset.blend",
+      "size_in_bytes": 331307,
+      "hash": "SHA256:d64c5f1cd726e841fa49653e0e1d14c28873049f0c542064ef8892a5daa779d6",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B18.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic B19.asset.blend",
+      "size_in_bytes": 315320,
+      "hash": "SHA256:965c977b6978db730c582f8115db83cecad15e5efdb70f7b4568667bca518f40",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20B19.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic D01.asset.blend",
+      "size_in_bytes": 133714,
+      "hash": "SHA256:6f3c8e7741e159a7e5ec39be453d98a76eb1d1c3394d065b5851ed760c4bd67c",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20D01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic D02.asset.blend",
+      "size_in_bytes": 269485,
+      "hash": "SHA256:d55b5f0de44fcb4d59e76614a3eb08b439efecc135aa8c0ce358ebc17de717fb",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20D02.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic D03.asset.blend",
+      "size_in_bytes": 277216,
+      "hash": "SHA256:510b41b42f055aa27e257865e3daa0a0d1113cbb6229a86656962b61ac16890f",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20D03.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic D04.asset.blend",
+      "size_in_bytes": 240192,
+      "hash": "SHA256:fa7795a33bc57c17611508de6fe5c51e69284cfb0a838623854d2308e6fae755",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20D04.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic D05.asset.blend",
+      "size_in_bytes": 231747,
+      "hash": "SHA256:d767561553effd34201058e0a6353443c33814eb88b19c061029568d7b5ca036",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20D05.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic D06.asset.blend",
+      "size_in_bytes": 254822,
+      "hash": "SHA256:a3b40f9b7f37cea9a212f6796317ecda8aa10ed52bf3233c24d800f24c691e26",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20D06.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic D07.asset.blend",
+      "size_in_bytes": 224658,
+      "hash": "SHA256:7e53bb9bc76d871d04c436eee55e5866e95f2322bb5f6cd56572e1d2ae5e5dd4",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20D07.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Basic D08.asset.blend",
+      "size_in_bytes": 245912,
+      "hash": "SHA256:dbec112be12d5233d9cef1b61a4470533c6ccba9ec89a123531cf85244d81647",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Basic%20D08.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth A01.asset.blend",
+      "size_in_bytes": 309165,
+      "hash": "SHA256:ff0df358eb36d562adb267665ead132fe6cf890abe16a8579661070217fc1057",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20A01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth A03.asset.blend",
+      "size_in_bytes": 315678,
+      "hash": "SHA256:2d90922a8eec855c120e474746a9e4f60a7edfc050079da22f743fe9f66a733b",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20A03.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth A11.asset.blend",
+      "size_in_bytes": 323210,
+      "hash": "SHA256:61cf54457eeb7c22e1172ba33937ec1fd06c8adf962bd1625716c3f60f3f738d",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20A11.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth A14.asset.blend",
+      "size_in_bytes": 339555,
+      "hash": "SHA256:587aa9e74aa0ed50360d2aacab5cd4f94b8894edef0506a21c4cc53c2fbc9090",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20A14.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth A17.asset.blend",
+      "size_in_bytes": 338919,
+      "hash": "SHA256:a1899f29278a999fda8d31d58202c451422a14acec2fdf15cf99ce8dc97edd16",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20A17.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth A19.asset.blend",
+      "size_in_bytes": 316435,
+      "hash": "SHA256:c87956a53511e30f5fcf42aa88084789b9c5962593d3bf9529775dda30b2d6b6",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20A19.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth G01.asset.blend",
+      "size_in_bytes": 163819,
+      "hash": "SHA256:803d9f659253a45340f772cfcf02e8a30baa7057272e8512bc619b5bb620ced4",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20G01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth G02.asset.blend",
+      "size_in_bytes": 164106,
+      "hash": "SHA256:ac6a8cccb57235cc913ae56e88780823efa44031b465febba863bf1de4d4552d",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20G02.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth G03.asset.blend",
+      "size_in_bytes": 172229,
+      "hash": "SHA256:f39c8a6fe8e73a9d40f9045363c79734bbde3544dec5b0091bccc38bf1b3e908",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20G03.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth H01.asset.blend",
+      "size_in_bytes": 165540,
+      "hash": "SHA256:117d3124ea5b49215108fb507c177925cfd8faf64e2f26f5f0cc987acea09437",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20H01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth H02.asset.blend",
+      "size_in_bytes": 174616,
+      "hash": "SHA256:60a1c0d7515988f1ca268572a11b30a02c8653ea4a2124cd813844bbcd0c6f2d",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20H02.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth H03-01.asset.blend",
+      "size_in_bytes": 168616,
+      "hash": "SHA256:0613aa509863f94ecbb18d9abe90fa7144a5533d1210c4035d008edd20c14064",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20H03-01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth H03.asset.blend",
+      "size_in_bytes": 167395,
+      "hash": "SHA256:4cafb644269d970588005e9c22376e645ee8931e9851acb16d004e235754291f",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20H03.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth I01.asset.blend",
+      "size_in_bytes": 130081,
+      "hash": "SHA256:530593b1d73a9de1bf2bd5bfa1cfbd89a7535420c388acd3a041d46144c1bbf0",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20I01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth I02.asset.blend",
+      "size_in_bytes": 134762,
+      "hash": "SHA256:e6652d7ead5ae443035a95b9d3fd0b16fb6ce440b0d4def70b59e4573d6c4d81",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20I02.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth I03.asset.blend",
+      "size_in_bytes": 138121,
+      "hash": "SHA256:30c6ae5851114513a79de2beb5c9471f64c880e0dc46a32c2b3b2d04abd70319",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20I03.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth J01.asset.blend",
+      "size_in_bytes": 115681,
+      "hash": "SHA256:f7b5791080dee187f3148861237e64bbb73dcc345db8e1312d7f44dee9a1db18",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20J01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth J02.asset.blend",
+      "size_in_bytes": 120291,
+      "hash": "SHA256:0b5ac8cddfc681ea2956423be7fc7b4ab23c44f7ee564668f45d44d32e21d4a3",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20J02.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Smooth J03.asset.blend",
+      "size_in_bytes": 121033,
+      "hash": "SHA256:2d665bae0747f3f5334bf98567985e4b80f20ddbd004af031be80b6d303ac3be",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Smooth%20J03.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A01.asset.blend",
+      "size_in_bytes": 321771,
+      "hash": "SHA256:32e450a749e88a5656054129c99c66bd894f59da605e636985c7f04584fab9d9",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A02.asset.blend",
+      "size_in_bytes": 332285,
+      "hash": "SHA256:25f08b888e5075d90eb792c00d29fc95cf9be62a196b1bec039503bc83b23092",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A02.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A03.asset.blend",
+      "size_in_bytes": 328694,
+      "hash": "SHA256:c308386e2e50b6cf1baf8607e3b059d2e7510e39ab4e456d2ff4f6958c2ec894",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A03.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A04.asset.blend",
+      "size_in_bytes": 319849,
+      "hash": "SHA256:11f5c7e71b3774fe65b9952b7bd7509d8b72a8c5b35a6a1dbbb43cb618214939",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A04.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A05.asset.blend",
+      "size_in_bytes": 324967,
+      "hash": "SHA256:0c4d0730ba4cb9d05c037220bada6d6edda979008bfa26955f5040847937fca3",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A05.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A06.asset.blend",
+      "size_in_bytes": 339770,
+      "hash": "SHA256:0ec3d6246610740d38b4539cfb95c8a7c36cd0026fdb82c0cd1af325d5f153a3",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A06.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A07.asset.blend",
+      "size_in_bytes": 315429,
+      "hash": "SHA256:070d30d2b01e8df59ecd733544e562270959fb40c0aae51f8eab0458718a4ddf",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A07.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A08.asset.blend",
+      "size_in_bytes": 332652,
+      "hash": "SHA256:663ffb3b160e2f7e707a5e9109088720bbda492c81eb1456e1d58f207a72649f",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A08.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A09.asset.blend",
+      "size_in_bytes": 351299,
+      "hash": "SHA256:284f628a6859989b3ab95e58ae5554dd94e5e7424e6785778df609811a86506a",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A09.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A10.asset.blend",
+      "size_in_bytes": 362206,
+      "hash": "SHA256:64802a3f3bac22a2677d3769df1823f8266dbfa51aa9aaf44e9a00aa38ca1f84",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A10.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A11.asset.blend",
+      "size_in_bytes": 343785,
+      "hash": "SHA256:db2bd2ec16474b1084d5edfa4d151f0419b7074a91af878e84699942eeaa95ce",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A11.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A12.asset.blend",
+      "size_in_bytes": 411300,
+      "hash": "SHA256:d79f1a89038c6fd1d90f30c02109693cbe694630954ac9b2adf9bc6aec77df89",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A12.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A13.asset.blend",
+      "size_in_bytes": 337073,
+      "hash": "SHA256:154b466b727cf517dbb209b6be0e46792f7e197bb47309f2ddf8c1f8da0cc7b4",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A13.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A14.asset.blend",
+      "size_in_bytes": 355380,
+      "hash": "SHA256:c6d05f8e89b0b4b957524d5094a529279e56dbb10886cb53fd156f22ac47c836",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A14.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A15.asset.blend",
+      "size_in_bytes": 329806,
+      "hash": "SHA256:9c1ead18bea5b98fdd4baeec25f463aded67c188ab2a218d2027b3a2d25b0723",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A15.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A16.asset.blend",
+      "size_in_bytes": 393462,
+      "hash": "SHA256:dabd1d0968c2662aa75230145380801d95049012ba83f64ddac4d91245f173a4",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A16.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A17.asset.blend",
+      "size_in_bytes": 355196,
+      "hash": "SHA256:8ac3ffefecda520ceffd76268ca0e9ca89d0a81fd00709b20de567a1c15221bd",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A17.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A18.asset.blend",
+      "size_in_bytes": 345308,
+      "hash": "SHA256:63d05ca239f7f2f3f61a5cd4cc29087178d15911a6fd7c0a22ac19ca85dd77cb",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A18.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp A19.asset.blend",
+      "size_in_bytes": 329049,
+      "hash": "SHA256:ffc147c554e486e6e9e43a01e2501182c74ccc96d2f9e2139729a7d32f575cc5",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20A19.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B01.asset.blend",
+      "size_in_bytes": 317262,
+      "hash": "SHA256:15e5a3cb75d34bf3ce6910fbda7b8a0f03b0ee55237ea7050344bf48cb9ea5c6",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B02.asset.blend",
+      "size_in_bytes": 323863,
+      "hash": "SHA256:7cfde674f6de01694346f867faa17507fe4b15ba39ab3e161a3826e700fe42fa",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B02.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B03.asset.blend",
+      "size_in_bytes": 325299,
+      "hash": "SHA256:97b8a29890a2e574eb8b9f0d1249fe5c6911958397927f614b7158eaf06a5ddf",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B03.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B04.asset.blend",
+      "size_in_bytes": 312431,
+      "hash": "SHA256:f209310464f7d7d738051e4c9898e267059804f15fb7bc6556fcdb7327321b43",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B04.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B05.asset.blend",
+      "size_in_bytes": 316850,
+      "hash": "SHA256:e6c7d21ae0e87b49b5cacfce03a9a813c5f0aba419952b625721681bb755f000",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B05.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B06.asset.blend",
+      "size_in_bytes": 325291,
+      "hash": "SHA256:b87b61bbc95681dae771b53b3208b624cc99a69fefaf6b946e8685541eaa71e5",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B06.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B07.asset.blend",
+      "size_in_bytes": 304287,
+      "hash": "SHA256:41b86fde5d17de4331c86aee1b6189a9ef1e5ac29d79751e55bd84f46945892a",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B07.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B08.asset.blend",
+      "size_in_bytes": 327506,
+      "hash": "SHA256:5ec8a5d52ffecee8ec6b6c606ca5c7320039112d0b95b74a26836031034a0dd3",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B08.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B09.asset.blend",
+      "size_in_bytes": 339525,
+      "hash": "SHA256:6f5d19c4c1bb5322b2215402bb8ab70d3e48c6010f1218d248dd0bee326def13",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B09.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B10.asset.blend",
+      "size_in_bytes": 349452,
+      "hash": "SHA256:67e75a34f5533374c9871b1f5ea849cf75393c8e3e8ae5ad382196175487a255",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B10.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B11.asset.blend",
+      "size_in_bytes": 330886,
+      "hash": "SHA256:3323284e1525ef925ccf02fa1604ec1f7e174ed48ab593498055741a44a5b749",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B11.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B12.asset.blend",
+      "size_in_bytes": 397942,
+      "hash": "SHA256:2c3467f8a98d0e1a942e37da8ce26fdcf8d547a7f7404ca7a29252c3654db86a",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B12.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B13.asset.blend",
+      "size_in_bytes": 333585,
+      "hash": "SHA256:a18026f6a3db68157ab6e639cbbb57c77d6d8038969953af7362b78f7536d700",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B13.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B14.asset.blend",
+      "size_in_bytes": 341082,
+      "hash": "SHA256:2083cd07f2c5e59550a2db398b37f5ac89f1cbf324f3294a8d40013c602852df",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B14.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B15.asset.blend",
+      "size_in_bytes": 319734,
+      "hash": "SHA256:5011ff5fdb1a237179b70d6c064d0a222724face1926f0091e6961d010316517",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B15.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B16.asset.blend",
+      "size_in_bytes": 372275,
+      "hash": "SHA256:5215f029e9621006713265764f57cdbdf035ebbfb0066dae86bca53742da95f7",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B16.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B17.asset.blend",
+      "size_in_bytes": 347045,
+      "hash": "SHA256:cbe36f49b9d7cf7570bb4caa96941e309f7dd22fb876293fdf489b203d032cfe",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B17.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B18.asset.blend",
+      "size_in_bytes": 340718,
+      "hash": "SHA256:caa7a7201158b6c2100e1045a056b4a41963ee3c4423ed24eabe5ddd64e5e9ed",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B18.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp B19.asset.blend",
+      "size_in_bytes": 323754,
+      "hash": "SHA256:ee9561936e99f2995dee0df4c1112de038df9c328d7581abf6eb9872afef7168",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20B19.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp C01.asset.blend",
+      "size_in_bytes": 184533,
+      "hash": "SHA256:cf46849d459941305b8265c5d0772941087c56e4c55f0d24378cd4f3bb4caeb5",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20C01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp C02.asset.blend",
+      "size_in_bytes": 171050,
+      "hash": "SHA256:d36ea2825ef41d8a7f3181ca7980c80c713c96b7d58acad5516361ab5e38d01a",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20C02.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp C03.asset.blend",
+      "size_in_bytes": 198637,
+      "hash": "SHA256:cd86ccdef3fc48fc9efcd4e0628014d77240911dfc1cee77ea7cc5cebfaca485",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20C03.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp C04.asset.blend",
+      "size_in_bytes": 181914,
+      "hash": "SHA256:0a6287235979a1cbe395299b599c0d16969bda609800830db381948a3588dcd1",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20C04.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp C05.asset.blend",
+      "size_in_bytes": 193367,
+      "hash": "SHA256:a8744fc48cb064e5832889ce7deaf0ac63a07306f1165cee17b09a6aca8503ba",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20C05.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp C06.asset.blend",
+      "size_in_bytes": 205237,
+      "hash": "SHA256:2d581590768921b568b94fc5e5c0670213a0a590b87b4a8cd645022f9c5f885b",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20C06.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp C07.asset.blend",
+      "size_in_bytes": 189940,
+      "hash": "SHA256:241917efe008914ab0862b67993d062dbf836390721bda62f50c3978b44760d8",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20C07.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp C08.asset.blend",
+      "size_in_bytes": 212544,
+      "hash": "SHA256:d3f00604e67424865053b3d8ecea05d2ea6aaeb23e577b6d902a12289cd03f3e",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20C08.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp C09.asset.blend",
+      "size_in_bytes": 204733,
+      "hash": "SHA256:79452fa8f0fa851adc2f9081aaf0a323a794cce000c3bdece005567c9405ce88",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20C09.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp C10.asset.blend",
+      "size_in_bytes": 203576,
+      "hash": "SHA256:3c6eef655c67f3d6afb9586fbb6feedba83b859a53e39042c1296919d13d059a",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20C10.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp C11.asset.blend",
+      "size_in_bytes": 199474,
+      "hash": "SHA256:15eade20f8763769bfb6ed1339ed0a700792cad6f21117ca9288a9e6cba1d6a9",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20C11.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp C12.asset.blend",
+      "size_in_bytes": 209991,
+      "hash": "SHA256:8b9344115cc4972820070ed8d201e77165ba7cdde28b35ca440285ab9eab0292",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20C12.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp E01.asset.blend",
+      "size_in_bytes": 173902,
+      "hash": "SHA256:56421668db58271cf7cb725763d3c26aad8fda2d0f0f2bf13c5903b1e274cc9d",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20E01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp E02.asset.blend",
+      "size_in_bytes": 172920,
+      "hash": "SHA256:e511ed647333161c1146384ac76f1b32eca0481a70509306e5780b8717d3839c",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20E02.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp E03.asset.blend",
+      "size_in_bytes": 153869,
+      "hash": "SHA256:c4a92ce09d1505a0b60c2d769b734776ce22c799a018b46a8bd7e78e1156bd7e",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20E03.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp E04.asset.blend",
+      "size_in_bytes": 179231,
+      "hash": "SHA256:003470c5f793ef3e3b945ac9f1ad69c836029043024c1b958ee1bd7c202a9dd2",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20E04.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp E05.asset.blend",
+      "size_in_bytes": 184825,
+      "hash": "SHA256:a0186dd8895603eef6c40cace6213935847c1968ecf500b59e430763b3702674",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20E05.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp E06.asset.blend",
+      "size_in_bytes": 193060,
+      "hash": "SHA256:1e9af132bbd84288957a68e5686623695104e0e1d7cdeb9e6459f39acb3a4135",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20E06.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp F01.asset.blend",
+      "size_in_bytes": 203729,
+      "hash": "SHA256:e5826e9d9d93d2195cc3c7ebf53aed9758b74d8bbf25bb7af37c3a5cdea518f7",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20F01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp F02.asset.blend",
+      "size_in_bytes": 207244,
+      "hash": "SHA256:59821e8e0da72144f9949f9ac83677d8ef60b447dd9e4a2944d8259cd12236e3",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20F02.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp F03.asset.blend",
+      "size_in_bytes": 173170,
+      "hash": "SHA256:eae2cf38c9d1f7335af82fedb495e5ca487e737a0acfdb000874cab26dfd9feb",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20F03.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp F04.asset.blend",
+      "size_in_bytes": 196040,
+      "hash": "SHA256:d9967d5e95f84d6834ccd5150904b713fb0d88ce813509e0196b14063c551a96",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20F04.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp F05.asset.blend",
+      "size_in_bytes": 209047,
+      "hash": "SHA256:75a45174586a90b78a3530a60ce71834e38fbf3c9bb2659a425d2892585a8d41",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20F05.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp F06.asset.blend",
+      "size_in_bytes": 227614,
+      "hash": "SHA256:814cc142f72b85fd69555140a1815978752aedf8a6a809b7bbdfe16089040755",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20F06.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp K01.asset.blend",
+      "size_in_bytes": 125957,
+      "hash": "SHA256:02c85036b5efedb6b4c4cf79204c8fd06f807e5a7017080bf79fcbc2023eff5e",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20K01.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp K02.asset.blend",
+      "size_in_bytes": 135726,
+      "hash": "SHA256:d7636aa2c77c43a0d76b76cce1986844a5367135225f672a5a481e14fb590b83",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20K02.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp K03.asset.blend",
+      "size_in_bytes": 132389,
+      "hash": "SHA256:6d8cc9de73d3d04198dd22a6d62d3327c93080d01d34e6ec2225993b754bca8c",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20K03.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp K04.asset.blend",
+      "size_in_bytes": 133566,
+      "hash": "SHA256:be2b8db9ac8fadcf12aaa20ce9e0cdd5246257979b3bd65cf47d7f74a156a809",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20K04.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp K05.asset.blend",
+      "size_in_bytes": 135131,
+      "hash": "SHA256:0898bc47217b5fb3ee926423112a417b49ba53e4849af63814a08edfb2bd753f",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20K05.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp K06.asset.blend",
+      "size_in_bytes": 128329,
+      "hash": "SHA256:1e74a1655e8654118fc05f7d1b3289390f9a305d5b7656bd6ae6976f2f0ddd3c",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20K06.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp K07.asset.blend",
+      "size_in_bytes": 135913,
+      "hash": "SHA256:3f11f951e4b86561dc569278e64b34c5dedd9540aa2d0cce1cd8a521abd3b1f4",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20K07.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp K08.asset.blend",
+      "size_in_bytes": 132102,
+      "hash": "SHA256:44130253111c2467c79e8fff8e8b522a7007a36336a2123ab0c02dbc29f119c2",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20K08.asset.blend"
+    },
+    {
+      "path": "Saved/Brushes/Aquarelle Stamp K09.asset.blend",
+      "size_in_bytes": 128860,
+      "hash": "SHA256:aa4ae79cf709c4740c98803353c3d7fa31f354bc451e1a8f8003ae08c49df3da",
+      "blender_version": "5.2.45",
+      "url": "Saved/Brushes/Aquarelle%20Stamp%20K09.asset.blend"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 36717228,
+  "asset_count": 136,
+  "file_count": 136,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:5f7b8b87aeefcb745ac18a04d1ad08fbb1b798bf2152dc71ce9b7dc2738adf5a"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "Aquarelle",
+      "uuids": [
+        "a9bf1d8f-1644-4c45-be2c-4502cea2b1b8"
+      ],
+      "simple_name": "Aquarelle"
+    },
+    {
+      "path": "Aquarelle/Brushes",
+      "uuids": [
+        "3b955eb8-7ca1-4bae-9a3c-2d606097a12d"
+      ],
+      "simple_name": "Aquarelle-Brushes"
+    },
+    {
+      "path": "Aquarelle/Stamps",
+      "uuids": [
+        "2bbb33de-862d-4250-9d44-8ebcd7747df9"
+      ],
+      "simple_name": "Aquarelle-Stamps"
+    }
+  ]
+}

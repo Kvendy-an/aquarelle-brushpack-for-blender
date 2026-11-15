@@ -1,0 +1,11 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+a9bf1d8f-1644-4c45-be2c-4502cea2b1b8:Aquarelle:Aquarelle
+3b955eb8-7ca1-4bae-9a3c-2d606097a12d:Aquarelle/Brushes:Aquarelle-Brushes
+2bbb33de-862d-4250-9d44-8ebcd7747df9:Aquarelle/Stamps:Aquarelle-Stamps

@@ -1,0 +1,12 @@
+{
+  "api_versions": {
+    "v1": {
+      "url": "_v1/asset-index.json",
+      "hash": "SHA256:e4260b9070279a7db7c5fd32b22a00d73652f40304086c225531675ea269a4ec"
+    }
+  },
+  "name": "Aquarelle Brushpack 512 px",
+  "contact": {
+    "name": "kvendy"
+  }
+}
